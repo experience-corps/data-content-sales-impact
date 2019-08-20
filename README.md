@@ -9,4 +9,5 @@ Modeling to find out how asset engagement during a sales cycle correlates to win
 !pip install pandas
 !pip install matplotlib
 !pip install seaborn
+!pip install sklearn
 ```
